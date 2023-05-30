@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+.vizitka{
+    width: 800px;
+    height: 400px;
+    background-color: black;
+    position: relative;
+}
+
+.vizitka img{
+    position: absolute;
+    top: 40px;
+    left: -40px;
+}
+/* ---------------------------------- */
+.vizitka_orqa{ 
+    margin-bottom: 500px;
+    width: 800px;
+    height: 400px;
+    background-color: black;
+    position: absolute;
+    top: 500px;
+ } 
